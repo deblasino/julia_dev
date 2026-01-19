@@ -1,0 +1,1 @@
+aggiunta la possibilità per i segmenti di alungarsi lungo i giunti, non solo di ruotare. in questo modo piu versatile. messo dele linearsprings tra la lunghezza nominale e la lunghezza effettiva. il prossim passo è implmenetare il fatto che il punto dell'end effector sia fisso o semifisso, in questo modoil robot ha un posto dove tornare.
