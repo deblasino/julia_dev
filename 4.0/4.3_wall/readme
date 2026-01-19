@@ -1,0 +1,1 @@
+si prova con il muro, ho abbassato il damping sui giunti perché non faceva girare il corpo del robot, boh vabbè ci ho messo troppo a capire che era quello, vediamo sul robot reale. comunque il muro viene superato, non dovrei aver cambiato nulla da prima. ah ho rimesso le linearspring per fare il eprcorso. vedi la repulsione del robo dagli osstacoli se è cambiato qualcosa.

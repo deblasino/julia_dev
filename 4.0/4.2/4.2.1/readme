@@ -1,0 +1,3 @@
+sostituito le molle lineari per la generazione con tanh, quindi anche l'ultima vicina all'end effector per farla muovere di piu. aggiunto anche damping 3d sulla posizione dei segmenti per farli muovere piu dolcemente con ostaoci dinamici. questo fatto solo sulla sezione 3.ùù
+
+ancora non so se va bene quindi lo lascio dentro sta cartell

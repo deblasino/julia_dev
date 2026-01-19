@@ -1,0 +1,5 @@
+allora il problema è che lo stato di equoiòlibrio dell percorso inizial enon era un equilibrio e il percorso iniziale non era buono, ma solo una stima iniziale, si allungava e si muoveva apena iniziata la sikìmulazione. per rimediare ho messo repulsione uguai per generazione e simulazione, epoi ho lasciato le molle che tirano verso l'end efefctor, solo l'ultima. non dovrebbero creare problemi. poio ho fisasto il numero disegmenti(detto anche prof di farlo) e ho permesso l'allungamento anche in fase di generazione.
+
+corretto il damping che era differente tra la fase di generazione e quella di assemblaggio, questo ha aumentato di parecchio la velocità di generazione del percorso. anche se probabilemnte è stato solo l'abbassamento del damping nella fase di generazione.
+
+ora c'è da provare altre configurazioni iniziali per i singoli segmenti, secondo me meglio sull'asse z che sull'asse -y come adesso. anche perché cosi è piu bilanciato tra destra e sinistra, per esempio se il robot deve arrivare da destra ci mette piu tempo a simulare il percorso iniziale, cioè gi devi dare piu tempo. 

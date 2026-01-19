@@ -1,0 +1,5 @@
+fatto solo per cambiare generazione iniziale del percorso, non penso cambi nulla a questo punto, ma comunque probvo a fare partire i segmenti da verticale invece che da orizzontale lungo -y.
+
+i tempi di generazione sono scesi di 50ms, forse si puo tirare ancora diminuendo il dt della simulazione (attualmente 5, inoltre non vibra piu, anche se con 5ms, molto meglio.prima non funzionava bene perchè la simulazione ci metteva un po a passare da sinistra a detra e comunque ancora non era perfettamente stabilizzato dopo 5sec, adesso si.
+
+il tempo di esecuzione non sembra scalare con gli ostacoli, aumenta leggermente ma niente di che. 

@@ -1,0 +1,6 @@
+invece che tre segmenti si fa in modo ricorsivo e si aggiungono finche non arrivano all'end efecotr, cosi posso cambiare la lunghezza del segmento e avere piu segmenti.
+avevo il problema che il segmento si allungava troppo e raggiungeva il terget, così ho messo che se il segmento arriva al target ma è più allungato del suo 30%, allora ne genera un altro, quindi l'allungamento si redistribuirà e verrà un percorso con piu segmenti.
+
+riotta ancora la stifness che tiene attaccato il percorso allìinizio
+
+ho dei problemi con la taratura contemporanea dei segmenti da 5 10 e 15 cm, la taratura di qui va bene per i 5 cm, con gli altri funziona lo stesso ma è più prono a deadlock.
