@@ -1,0 +1,2 @@
+implementata la logica per far decidere al robot da che parte della sbarra partire, semplicmente vede dove è il capo più lontano dagli ostacoli. il rosa è stato spostato lungo l'asse y e la posizione di partenza cambia correttamente
+Il video down deve essere comparato con 1.3.2, dove non c'ear la logica di partenza, ma la diposizione degli ostacoli era la stessa. 

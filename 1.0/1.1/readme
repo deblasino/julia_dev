@@ -1,0 +1,5 @@
+Questa versione implementa un osatcolo, la sbarar che ruota e il manipolatore che si avvicina al target lungo l'ostacolo. La sbarra ruota secondo la repulsività dell'ostacolo.
+DA IMPLEMENTARE:
+- repulsione end-effector-ostacolo
+- ostacoli multipli
+- logica per capire da che parte della sbarra approcciare

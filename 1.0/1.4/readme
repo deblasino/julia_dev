@@ -1,0 +1,4 @@
+esempio sciurus.jl per ostacolo dinamico (usando Ref). fsetup e fcontrol per implementare e aggiornare il movimento dell'ostacolo con il tempo t.
+incrementata la stiffness repulsiva a -500 perchè ci sono delle collisioni, ma la repulsione fa si che l'ostacolo venga approcciato all'altra parte, risolvi , non penso di possa.
+ho aumentato il damping del carrello per fare in modo che l'end effector non si incastri tra l'ostacolo e il taarget e ora funizona perfettamente.
+da notare che quando l'ostacolo si avvicina il robot si allontana, ma quando ha di nuovo spazio il robot s avvicina di nuovo al target, compliant behaviour.

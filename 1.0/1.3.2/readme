@@ -1,0 +1,3 @@
+aggiunto anche il link4 con la repulsività dagli ostacoli e diminuita la stiffness tra link e ostacoli per far si che il robot si avvicini al target di più.
+Cambiata la disposizione degli ostacoli in modo che sia più difficile arrivarci, da implementare ancora la logica ch permette di avvicinarsi dall'altra parte della sbarra. 
+
